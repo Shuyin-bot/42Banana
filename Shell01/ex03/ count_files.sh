@@ -1,0 +1,1 @@
+find . -path -prune -o -print | we -1
